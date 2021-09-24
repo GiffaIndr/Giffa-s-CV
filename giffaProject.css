@@ -11,7 +11,7 @@ body {
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: rgb(201, 201, 201);
-    border: solid 5px;
+    border-right: solid 5px;
     border-radius: 2px;
     }
 
@@ -85,35 +85,35 @@ p {
    text-align: center;
    background-color: rgb(201, 201, 201);
    border-color: black;
-   border: solid 5px;
+   border-right: solid 5px;
    border-radius: 2px;
 }
 .informal {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: rgb(201, 201, 201);
-    border: solid 5px;
+    border-right: solid 5px;
     border-radius: 2px;
  }
 .organisasi{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: rgb(201, 201, 201);
-    border: solid 5px;
+    border-right: solid 5px;
     border-radius: 2px;
  }
 .keahlian{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: rgb(201, 201, 201);
-    border: solid 5px;
+    border-right: solid 5px;
     border-radius: 2px;
 }
 .inspirasi{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: rgb(201, 201, 201);
-    border: solid 5px;
+    border-right: solid 5px;
     border-radius: 2px;
 }
 .bordertext{
