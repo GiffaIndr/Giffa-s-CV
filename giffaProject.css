@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@600&display=swap');
+body {
+    background: linear-gradient( -8deg, rgb(54, 17, 17) 20%, rgb(77, 76, 76) 70%);
+
+  
+    }
+    .datadiri{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+    border: solid 5px;
+    border-radius: 2px;
+    }
+
+    .sosialmedia{
+        border-style: solid;
+        text-align: center;
+        line-height: 20px;
+        border-color: black;
+        border-radius: 10px;
+        padding: 5px 20px 10px 30px;
+        margin: auto;
+        background-color: var(--warna);
+        font-size: 15px;
+    }
+    .instagram{
+        background-color: #a8a8a8;
+        color: rgb(138, 138, 138);
+        padding: 2px 12px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      .twitter {
+        background-color: #a8a8a8;
+        color: rgb(118, 121, 119);
+        padding: 2px 12px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      .email{
+          color: blue;
+      }
+      :root {
+          --warna: rgb(219, 214, 214);
+      }
+      .biodata{
+        color: white;
+          text-align: center;
+          font-size: 20px;
+      }
+      .frontend {
+          font-style: italic;
+      }
+    
+.sgi {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Source Serif Pro', serif;
+    color:white;
+}
+.name {
+    text-align: center;
+   border-radius: 10px;
+   font-size: 100%;
+   color: white;
+   font-family: 'Cinzel Decorative', cursive;
+   border-color: black;
+}
+.img{
+    width: 15%;
+    display: block;
+    margin: 0px auto;
+    border: 5px solid black;
+}
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.formal {
+   font-family: Merriweather, serif;
+   text-align: center;
+   background-color: rgb(201, 201, 201);
+   border-color: black;
+   border: solid 5px;
+   border-radius: 2px;
+}
+.informal {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+    border: solid 5px;
+    border-radius: 2px;
+ }
+.organisasi{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+    border: solid 5px;
+    border-radius: 2px;
+ }
+.keahlian{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+    border: solid 5px;
+    border-radius: 2px;
+}
+.inspirasi{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+    border: solid 5px;
+    border-radius: 2px;
+}
+.bordertext{
+   text-align: center;
+}
+.border1{
+    margin-left: auto;
+  margin-right: auto;
+}
+.border2{
+    margin-left: auto;
+  margin-right: auto;
+}
+.point1 {
+  border-style: solid;
+   max-width: 350px;
+  max-height: 250px;
+  line-height: 20px;
+  border-color: black;
+  border-radius: 10px;
+  padding: 5px 20px 10px 30px;
+  margin: auto;
+  background-color: var(--warna);
+}
+.datadiri2{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    max-width: 350px;
+    max-height: 250px;
+    margin: auto;
+  }
+  .point2{
+    border-style: solid;
+    max-width: 350px;
+   max-height: 250px;
+   line-height: 20px;
+   border-color: black;
+   border-radius: 10px;
+   padding: 5px 20px 10px 30px;
+   margin: auto;
+   background-color: var(--warna);
+  }
+  .bd1{
+    border-style: solid;
+   line-height: 20px;
+   border-color: black;
+   border-radius: 10px;
+   padding: 5px 20px 10px 30px;
+   margin: auto;
+   background-color: var(--warna);
+   max-width: 350px;
+    max-height: 130px;
+    
+  }
+  .bd2{
+    border-style: solid;
+   line-height: 15px;
+   border-color: black;
+   border-radius: 10px;
+   padding: 5px 20px 10px 30px;
+   margin: auto;
+   background-color: var(--warna);
+   max-width: 350px;
+    max-height: 250px;
+   
+  }
+  .point3 {
+    border-style: solid;
+    max-width: 650px;
+   max-height: 550px;
+   line-height: 20px;
+   border-color: black;
+   border-radius: 10px;
+   padding: 5px 20px 10px 30px;
+   margin: auto;
+   background-color: var(--warna);
+  }
+
+
